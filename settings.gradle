@@ -1,0 +1,3 @@
+rootProject.name = "Eco_Test"
+include ':app'
+include ':base-module'

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eco_Test</string>
+    <string name="action_pause">ACTION_PAUSE</string>
+    <string name="action_play">ACTION_PLAY</string>
+    <string name="action_close">ACTION_CLOSE</string>
+    <string name="action_back">ACTION_BACK</string>
+    <string name="action_next">ACTION_NEXT</string>
+    <string name="cant_play_song">Can not play this song</string>
+    <string name="unknown">Unknown</string>
+</resources>
