@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lam2000.base_module" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="31" />
+7-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+9-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:5:5-81
+9-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:5:22-78
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:6:5-67
+10-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:6:22-64
+11
+12    <application android:requestLegacyExternalStorage="true" >
+12-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:8:5-21:19
+12-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:8:18-61
+13        <activity android:name="com.lam2000.base_module.photopicker.PickImageActivity" />
+13-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:9:9-67
+13-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:9:19-64
+14        <activity android:name="com.lam2000.base_module.crop.CropActivity2" />
+14-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:10:9-56
+14-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:10:19-53
+15
+16        <provider
+16-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:12:9-20:20
+17            android:name="com.lam2000.base_module.utils.GenericFileProvider"
+17-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:13:13-54
+18            android:authorities="${applicationId}.provider"
+18-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:14:13-60
+19            android:exported="false"
+19-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:15:13-37
+20            android:grantUriPermissions="true" >
+20-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:16:13-47
+21            <meta-data
+21-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:17:13-19:52
+22                android:name="android.support.FILE_PROVIDER_PATHS"
+22-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:18:17-67
+23                android:resource="@xml/provider" />
+23-->C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:19:17-49
+24        </provider>
+25    </application>
+26
+27</manifest>

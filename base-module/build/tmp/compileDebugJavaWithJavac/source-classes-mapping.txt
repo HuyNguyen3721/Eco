@@ -1,0 +1,169 @@
+com/lam2000/base_module/viewpager/MagicTransformer.java
+ com.lam2000.base_module.viewpager.MagicTransformer
+ com.lam2000.base_module.viewpager.MagicTransformer$1
+com/lam2000/base_module/print/PrintJobMonitorService.java
+ com.lam2000.base_module.print.PrintJobMonitorService
+com/lam2000/base_module/photopicker/PopupDirectoryListAdapter.java
+ com.lam2000.base_module.photopicker.PopupDirectoryListAdapter
+ com.lam2000.base_module.photopicker.PopupDirectoryListAdapter$ViewHolder
+com/lam2000/base_module/databinding/ActivityPickImageBinding.java
+ com.lam2000.base_module.databinding.ActivityPickImageBinding
+com/lam2000/base_module/databinding/DialogLoadingBinding.java
+ com.lam2000.base_module.databinding.DialogLoadingBinding
+com/lam2000/base_module/utils/BitmapUtils.java
+ com.lam2000.base_module.utils.BitmapUtils
+com/lam2000/base_module/utils/PreferencesUtils.java
+ com.lam2000.base_module.utils.PreferencesUtils
+com/lam2000/base_module/crop/cropper/CropImageActivity.java
+ com.lam2000.base_module.crop.cropper.CropImageActivity
+com/lam2000/base_module/print/PdfDocumentAdapter.java
+ com.lam2000.base_module.print.PdfDocumentAdapter
+ com.lam2000.base_module.print.PdfDocumentAdapter$PdfLayoutJob
+ com.lam2000.base_module.print.PdfDocumentAdapter$PdfWriteJob
+com/lam2000/base_module/databinding/ItemBaseCropBinding.java
+ com.lam2000.base_module.databinding.ItemBaseCropBinding
+com/lam2000/base_module/databinding/ActivityCrop2Binding.java
+ com.lam2000.base_module.databinding.ActivityCrop2Binding
+com/lam2000/base_module/utils/CompareSizesByArea.java
+ com.lam2000.base_module.utils.CompareSizesByArea
+com/lam2000/base_module/viewpager/RotatePageTransformer.java
+ com.lam2000.base_module.viewpager.RotatePageTransformer
+com/lam2000/base_module/viewpager/InRightUpTransformer.java
+ com.lam2000.base_module.viewpager.InRightUpTransformer
+com/lam2000/base_module/crop/cropper/CropImageView.java
+ com.lam2000.base_module.crop.cropper.CropImageView
+ com.lam2000.base_module.crop.cropper.CropImageView$1
+ com.lam2000.base_module.crop.cropper.CropImageView$CropResult
+ com.lam2000.base_module.crop.cropper.CropImageView$CropShape
+ com.lam2000.base_module.crop.cropper.CropImageView$Guidelines
+ com.lam2000.base_module.crop.cropper.CropImageView$OnCropImageCompleteListener
+ com.lam2000.base_module.crop.cropper.CropImageView$OnSetCropOverlayMovedListener
+ com.lam2000.base_module.crop.cropper.CropImageView$OnSetCropOverlayReleasedListener
+ com.lam2000.base_module.crop.cropper.CropImageView$OnSetCropWindowChangeListener
+ com.lam2000.base_module.crop.cropper.CropImageView$OnSetImageUriCompleteListener
+ com.lam2000.base_module.crop.cropper.CropImageView$RequestSizeOptions
+ com.lam2000.base_module.crop.cropper.CropImageView$ScaleType
+com/lam2000/base_module/viewpager/AlphaPageTransformer.java
+ com.lam2000.base_module.viewpager.AlphaPageTransformer
+com/lam2000/base_module/crop/cropper/CropWindowMoveHandler.java
+ com.lam2000.base_module.crop.cropper.CropWindowMoveHandler
+ com.lam2000.base_module.crop.cropper.CropWindowMoveHandler$1
+ com.lam2000.base_module.crop.cropper.CropWindowMoveHandler$Type
+com/lam2000/base_module/crop/cropper/BitmapUtils.java
+ com.lam2000.base_module.crop.cropper.BitmapUtils
+ com.lam2000.base_module.crop.cropper.BitmapUtils$BitmapSampled
+ com.lam2000.base_module.crop.cropper.BitmapUtils$RotateBitmapResult
+com/lam2000/base_module/crop/cropper/CropOverlayView.java
+ com.lam2000.base_module.crop.cropper.CropOverlayView
+ com.lam2000.base_module.crop.cropper.CropOverlayView$1
+ com.lam2000.base_module.crop.cropper.CropOverlayView$CropWindowChangeListener
+ com.lam2000.base_module.crop.cropper.CropOverlayView$ScaleListener
+com/lam2000/base_module/viewpager/FadePageTransformer.java
+ com.lam2000.base_module.viewpager.FadePageTransformer
+com/lam2000/base_module/databinding/PickerItemDirectoryBinding.java
+ com.lam2000.base_module.databinding.PickerItemDirectoryBinding
+com/lam2000/base_module/adapter/BaseRecyclerAdapter.java
+ com.lam2000.base_module.adapter.BaseRecyclerAdapter
+ com.lam2000.base_module.adapter.BaseRecyclerAdapter$OnItemClickListener
+com/lam2000/base_module/viewpager/CubePageTransformer.java
+ com.lam2000.base_module.viewpager.CubePageTransformer
+com/lam2000/base_module/crop/cropper/CropWindowHandler.java
+ com.lam2000.base_module.crop.cropper.CropWindowHandler
+com/lam2000/base_module/utils/SystemUtils.java
+ com.lam2000.base_module.utils.SystemUtils
+com/lam2000/base_module/BuildConfig.java
+ com.lam2000.base_module.BuildConfig
+com/lam2000/base_module/utils/KeyboardUtils.java
+ com.lam2000.base_module.utils.KeyboardUtils
+com/lam2000/base_module/utils/StringUtils.java
+ com.lam2000.base_module.utils.StringUtils
+com/lam2000/base_module/viewpager/ZoomCenterPageTransformer.java
+ com.lam2000.base_module.viewpager.ZoomCenterPageTransformer
+com/lam2000/base_module/crop/cropper/BitmapLoadingWorkerTask.java
+ com.lam2000.base_module.crop.cropper.BitmapLoadingWorkerTask
+ com.lam2000.base_module.crop.cropper.BitmapLoadingWorkerTask$Result
+com/lam2000/base_module/utils/HelperFunctions.java
+ com.lam2000.base_module.utils.HelperFunctions
+com/lam2000/base_module/activity/BetterActivityResult.java
+ com.lam2000.base_module.activity.BetterActivityResult
+ com.lam2000.base_module.activity.BetterActivityResult$OnActivityResult
+com/lam2000/base_module/viewpager/InRightDownTransformer.java
+ com.lam2000.base_module.viewpager.InRightDownTransformer
+com/lam2000/base_module/crop/cropper/BitmapCroppingWorkerTask.java
+ com.lam2000.base_module.crop.cropper.BitmapCroppingWorkerTask
+ com.lam2000.base_module.crop.cropper.BitmapCroppingWorkerTask$Result
+com/lam2000/base_module/viewpager/ZoomFadePageTransformer.java
+ com.lam2000.base_module.viewpager.ZoomFadePageTransformer
+com/lam2000/base_module/databinding/ShareViewBinding.java
+ com.lam2000.base_module.databinding.ShareViewBinding
+com/lam2000/base_module/viewpager/TransitionEffect.java
+ com.lam2000.base_module.viewpager.TransitionEffect
+com/lam2000/base_module/adapter/model/PageModel.java
+ com.lam2000.base_module.adapter.model.PageModel
+com/lam2000/base_module/view/ItemDecorationAlbumColumns.java
+ com.lam2000.base_module.view.ItemDecorationAlbumColumns
+com/lam2000/base_module/dialog/rate/DialogRatingState.java
+ com.lam2000.base_module.dialog.rate.DialogRatingState
+com/lam2000/base_module/databinding/BaseDialogRateAppBinding.java
+ com.lam2000.base_module.databinding.BaseDialogRateAppBinding
+com/lam2000/base_module/viewpager/DepthPageTransformer.java
+ com.lam2000.base_module.viewpager.DepthPageTransformer
+com/lam2000/base_module/utils/permisson/PermissionUtils.java
+ com.lam2000.base_module.utils.permisson.PermissionUtils
+com/lam2000/base_module/utils/DateUtils.java
+ com.lam2000.base_module.utils.DateUtils
+com/lam2000/base_module/print/ThreadedPrintDocumentAdapter.java
+ com.lam2000.base_module.print.ThreadedPrintDocumentAdapter
+ com.lam2000.base_module.print.ThreadedPrintDocumentAdapter$LayoutJob
+ com.lam2000.base_module.print.ThreadedPrintDocumentAdapter$WriteJob
+com/lam2000/base_module/utils/PathUtils.java
+ com.lam2000.base_module.utils.PathUtils
+ com.lam2000.base_module.utils.PathUtils$1
+com/lam2000/base_module/viewpager/StackPageTransformer.java
+ com.lam2000.base_module.viewpager.StackPageTransformer
+com/lam2000/base_module/animation/AnimationUtils.java
+ com.lam2000.base_module.animation.AnimationUtils
+com/lam2000/base_module/viewpager/BasePageTransformer.java
+ com.lam2000.base_module.viewpager.BasePageTransformer
+com/lam2000/base_module/databinding/CropImageActivityBinding.java
+ com.lam2000.base_module.databinding.CropImageActivityBinding
+com/lam2000/base_module/viewpager/ZoomStackPageTransformer.java
+ com.lam2000.base_module.viewpager.ZoomStackPageTransformer
+com/lam2000/base_module/viewpager/ZoomPageTransformer.java
+ com.lam2000.base_module.viewpager.ZoomPageTransformer
+com/lam2000/base_module/crop/cropper/CropImage.java
+ com.lam2000.base_module.crop.cropper.CropImage
+ com.lam2000.base_module.crop.cropper.CropImage$1
+ com.lam2000.base_module.crop.cropper.CropImage$ActivityBuilder
+ com.lam2000.base_module.crop.cropper.CropImage$ActivityResult
+ com.lam2000.base_module.crop.cropper.CropImage$ActivityResult$1
+com/lam2000/base_module/utils/FileUtil.java
+ com.lam2000.base_module.utils.FileUtil
+ com.lam2000.base_module.utils.FileUtil$1
+com/lam2000/base_module/databinding/CropImageViewBinding.java
+ com.lam2000.base_module.databinding.CropImageViewBinding
+com/lam2000/base_module/adapter/RecyclerItemClickListener.java
+ com.lam2000.base_module.adapter.RecyclerItemClickListener
+ com.lam2000.base_module.adapter.RecyclerItemClickListener$1
+ com.lam2000.base_module.adapter.RecyclerItemClickListener$OnItemClickListener
+com/lam2000/base_module/photopicker/PhotoDirectory.java
+ com.lam2000.base_module.photopicker.PhotoDirectory
+com/lam2000/base_module/databinding/ItemImageBinding.java
+ com.lam2000.base_module.databinding.ItemImageBinding
+com/lam2000/base_module/crop/cropper/CropImageAnimation.java
+ com.lam2000.base_module.crop.cropper.CropImageAnimation
+com/lam2000/base_module/viewpager/AccordionPageTransformer.java
+ com.lam2000.base_module.viewpager.AccordionPageTransformer
+com/lam2000/base_module/crop/cropper/CropImageOptions.java
+ com.lam2000.base_module.crop.cropper.CropImageOptions
+ com.lam2000.base_module.crop.cropper.CropImageOptions$1
+com/lam2000/base_module/viewpager/SlowBackgroundTransformer.java
+ com.lam2000.base_module.viewpager.SlowBackgroundTransformer
+com/lam2000/base_module/utils/ExtensionUtil.java
+ com.lam2000.base_module.utils.ExtensionUtil
+com/lam2000/base_module/viewpager/FlipPageTransformer.java
+ com.lam2000.base_module.viewpager.FlipPageTransformer
+com/lam2000/base_module/listener/EzItemListener.java
+ com.lam2000.base_module.listener.EzItemListener
+com/lam2000/base_module/viewpager/DefaultPageTransformer.java
+ com.lam2000.base_module.viewpager.DefaultPageTransformer

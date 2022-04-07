@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lam2000.base_module" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="31" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application android:requestLegacyExternalStorage="true" >
+        <activity android:name="com.lam2000.base_module.photopicker.PickImageActivity" />
+        <activity android:name="com.lam2000.base_module.crop.CropActivity2" />
+
+        <provider
+            android:name="com.lam2000.base_module.utils.GenericFileProvider"
+            android:authorities="dollar_openBracket_applicationId_closeBracket.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider" />
+        </provider>
+    </application>
+
+</manifest>

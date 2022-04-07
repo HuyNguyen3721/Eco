@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+    <attr format="reference" name="SmoothBottomBarStyle"/>
+    <color name="background_color">#FFFFFF</color>
+    <color name="color_1B1B1B">#1B1B1B</color>
+    <color name="color_252525">#252525</color>
+    <color name="color_FBB418">#FBB418</color>
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+    <color name="text_color">#1B1B1B</color>
+    <color name="text_title_color">#252525</color>
+    <color name="tokenBlack05">#0D000000</color>
+    <color name="tokenBlack08">#ebebeb</color>
+    <color name="tokenBlack10">#1A000000</color>
+    <color name="tokenBlack100">#FF000000</color>
+    <color name="tokenBlack20">#33000000</color>
+    <color name="tokenBlack30">#4D000000</color>
+    <color name="tokenBlack40">#66000000</color>
+    <color name="tokenBlack50">#80000000</color>
+    <color name="tokenBlack60">#99000000</color>
+    <color name="tokenBlack70">#B3000000</color>
+    <color name="tokenBlack80">#CC000000</color>
+    <color name="tokenBlack90">#E6000000</color>
+    <color name="tokenBorderCyan100">#17adb0</color>
+    <color name="tokenBorderDark10">#e9e9e9</color>
+    <color name="tokenBorderDark20">#d3d3d3</color>
+    <color name="tokenBorderDark40">#a7a7a7</color>
+    <color name="tokenBorderRed100">#ff645c</color>
+    <color name="tokenBorderWhite">#ffffff</color>
+    <color name="tokenBorderYellow100">#ffbe41</color>
+    <color name="tokenWhite10">#1AFFFFFF</color>
+    <color name="tokenWhite100">#FFFFFFFF</color>
+    <color name="tokenWhite20">#33FFFFFF</color>
+    <color name="tokenWhite30">#4DFFFFFF</color>
+    <color name="tokenWhite40">#66FFFFFF</color>
+    <color name="tokenWhite50">#80FFFFFF</color>
+    <color name="tokenWhite60">#99FFFFFF</color>
+    <color name="tokenWhite70">#B3FFFFFF</color>
+    <color name="tokenWhite80">#CCFFFFFF</color>
+    <color name="tokenWhite90">#E6FFFFFF</color>
+    <dimen name="gridBottom">@dimen/_13sdp</dimen>
+    <dimen name="gridLeft">@dimen/_13sdp</dimen>
+    <dimen name="gridRight">@dimen/_13sdp</dimen>
+    <dimen name="gridTop">@dimen/_13sdp</dimen>
+    <dimen name="tokenBorderRadius02">@dimen/_2sdp</dimen>
+    <dimen name="tokenBorderRadius04">@dimen/_3sdp</dimen>
+    <dimen name="tokenBorderRadius06">@dimen/_4sdp</dimen>
+    <dimen name="tokenBorderRadius08">@dimen/_6sdp</dimen>
+    <dimen name="tokenBorderRadius10">@dimen/_8sdp</dimen>
+    <dimen name="tokenBorderRadius12">@dimen/_10sdp</dimen>
+    <dimen name="tokenBorderRadius14">@dimen/_11sdp</dimen>
+    <dimen name="tokenBorderRadius16">@dimen/_13sdp</dimen>
+    <dimen name="tokenBorderRadius18">@dimen/_14sdp</dimen>
+    <dimen name="tokenBorderRadius20">@dimen/_16sdp</dimen>
+    <dimen name="tokenBorderRadius22">@dimen/_18sdp</dimen>
+    <dimen name="tokenBorderRadius24">@dimen/_19sdp</dimen>
+    <dimen name="tokenCellHeight40">@dimen/_40sdp</dimen>
+    <dimen name="tokenFontSize10">@dimen/_8sdp</dimen>
+    <dimen name="tokenFontSize12">@dimen/_10sdp</dimen>
+    <dimen name="tokenFontSize13">@dimen/_11sdp</dimen>
+    <dimen name="tokenFontSize14">@dimen/_12sdp</dimen>
+    <dimen name="tokenFontSize16">@dimen/_13sdp</dimen>
+    <dimen name="tokenFontSize18">@dimen/_15sdp</dimen>
+    <dimen name="tokenFontSize22">@dimen/_18sdp</dimen>
+    <dimen name="tokenFontSize24">@dimen/_20sdp</dimen>
+    <dimen name="tokenFontSize26">@dimen/_22sdp</dimen>
+    <dimen name="tokenSizing01">@dimen/_1sdp</dimen>
+    <dimen name="tokenSizing02">@dimen/_2sdp</dimen>
+    <dimen name="tokenSizing04">@dimen/_3sdp</dimen>
+    <dimen name="tokenSizing08">@dimen/_6sdp</dimen>
+    <dimen name="tokenSizing104">@dimen/_83sdp</dimen>
+    <dimen name="tokenSizing112">@dimen/_90sdp</dimen>
+    <dimen name="tokenSizing120">@dimen/_96sdp</dimen>
+    <dimen name="tokenSizing128">@dimen/_102sdp</dimen>
+    <dimen name="tokenSizing136">@dimen/_109sdp</dimen>
+    <dimen name="tokenSizing144">@dimen/_115sdp</dimen>
+    <dimen name="tokenSizing152">@dimen/_122sdp</dimen>
+    <dimen name="tokenSizing16">@dimen/_13sdp</dimen>
+    <dimen name="tokenSizing160">@dimen/_128sdp</dimen>
+    <dimen name="tokenSizing168">@dimen/_134sdp</dimen>
+    <dimen name="tokenSizing176">@dimen/_141sdp</dimen>
+    <dimen name="tokenSizing184">@dimen/_147sdp</dimen>
+    <dimen name="tokenSizing192">@dimen/_154sdp</dimen>
+    <dimen name="tokenSizing200">@dimen/_160sdp</dimen>
+    <dimen name="tokenSizing24">@dimen/_19sdp</dimen>
+    <dimen name="tokenSizing32">@dimen/_26sdp</dimen>
+    <dimen name="tokenSizing40">@dimen/_32sdp</dimen>
+    <dimen name="tokenSizing42">@dimen/_34sdp</dimen>
+    <dimen name="tokenSizing48">@dimen/_38sdp</dimen>
+    <dimen name="tokenSizing56">@dimen/_45sdp</dimen>
+    <dimen name="tokenSizing64">@dimen/_51sdp</dimen>
+    <dimen name="tokenSizing72">@dimen/_58sdp</dimen>
+    <dimen name="tokenSizing80">@dimen/_64sdp</dimen>
+    <dimen name="tokenSizing88">@dimen/_70sdp</dimen>
+    <dimen name="tokenSizing96">@dimen/_77sdp</dimen>
+    <dimen name="tokenSpacing00">0dp</dimen>
+    <dimen name="tokenSpacing02">@dimen/_2sdp</dimen>
+    <dimen name="tokenSpacing04">@dimen/_3sdp</dimen>
+    <dimen name="tokenSpacing08">@dimen/_6sdp</dimen>
+    <dimen name="tokenSpacing12">@dimen/_10sdp</dimen>
+    <dimen name="tokenSpacing16">@dimen/_13sdp</dimen>
+    <dimen name="tokenSpacing24">@dimen/_19sdp</dimen>
+    <dimen name="tokenSpacing32">@dimen/_26sdp</dimen>
+    <dimen name="tokenSpacing40">@dimen/_32sdp</dimen>
+    <dimen name="tokenSpacing48">@dimen/_38sdp</dimen>
+    <dimen name="tokenSpacing56">@dimen/_45sdp</dimen>
+    <dimen name="tokenSpacing64">@dimen/_51sdp</dimen>
+    <dimen name="tokenStatusBarHeight">@dimen/_40sdp</dimen>
+    <string name="all_image">All image</string>
+    <string name="app_being_download">Application is being downloaded</string>
+    <string name="app_error">An error occurred. Please try again</string>
+    <string name="app_update_fail">App Update failed, please try again on the next app launch.</string>
+    <string name="app_update_success">New app is ready</string>
+    <string name="cancel">Cancel</string>
+    <string name="cant_open_file">Can\'t open this file</string>
+    <string name="crop_11">1:1</string>
+    <string name="crop_21">2:1</string>
+    <string name="crop_23">2:3</string>
+    <string name="crop_31">3:1</string>
+    <string name="crop_32">3:2</string>
+    <string name="crop_34">3:4</string>
+    <string name="crop_43">4:3</string>
+    <string name="crop_45">4:5</string>
+    <string name="crop_54">5:4</string>
+    <string name="crop_74">7:4</string>
+    <string name="crop_916">9:16</string>
+    <string name="crop_a4">A4</string>
+    <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+    <string name="crop_image_activity_title">Crop</string>
+    <string name="custom">Custom</string>
+    <string name="day_ago">%s days ago</string>
+    <string name="discard">Discard</string>
+    <string name="discard_edit">Do you want to discard the changes?</string>
+    <string name="done">Done</string>
+    <string name="ellipsis">…</string>
+    <string name="free">Free</string>
+    <string name="hour_ago">%s hours ago</string>
+    <string name="images">Images</string>
+    <string name="install">Install</string>
+    <string name="just_now_time">just now</string>
+    <string name="late">Late</string>
+    <string name="limit_image">Limit image</string>
+    <string name="min_photo">Min photo</string>
+    <string name="minute_ago">%s minutes ago</string>
+    <string name="no_app_response">No application to perform this action</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="rate_now">Rate now</string>
+    <string name="rate_us">Rate us</string>
+    <string name="rate_us_message">Do you want to rate this application?Your support will help us to improve it.</string>
+    <string name="remind_later">Remind me later</string>
+    <string name="reset_all">Reset All</string>
+    <string name="share">Share</string>
+    <declare-styleable name="CropImageView">
+        <attr name="cropGuidelines">
+            <enum name="off" value="0"/>
+            <enum name="onTouch" value="1"/>
+            <enum name="on" value="2"/>
+        </attr>
+        <attr name="cropScaleType">
+            <enum name="fitCenter" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="centerCrop" value="2"/>
+            <enum name="centerInside" value="3"/>
+        </attr>
+        <attr name="cropShape">
+            <enum name="rectangle" value="0"/>
+            <enum name="oval" value="1"/>
+        </attr>
+        <attr format="boolean" name="cropAutoZoomEnabled"/>
+        <attr format="integer" name="cropMaxZoom"/>
+        <attr format="boolean" name="cropMultiTouchEnabled"/>
+        <attr format="boolean" name="cropFixAspectRatio"/>
+        <attr format="integer" name="cropAspectRatioX"/>
+        <attr format="integer" name="cropAspectRatioY"/>
+        <attr format="float" name="cropInitialCropWindowPaddingRatio"/>
+        <attr format="dimension" name="cropBorderLineThickness"/>
+        <attr format="color" name="cropBorderLineColor"/>
+        <attr format="dimension" name="cropBorderCornerThickness"/>
+        <attr format="dimension" name="cropBorderCornerOffset"/>
+        <attr format="dimension" name="cropBorderCornerLength"/>
+        <attr format="color" name="cropBorderCornerColor"/>
+        <attr format="dimension" name="cropGuidelinesThickness"/>
+        <attr format="color" name="cropGuidelinesColor"/>
+        <attr format="color" name="cropBackgroundColor"/>
+        <attr format="dimension" name="cropSnapRadius"/>
+        <attr format="dimension" name="cropTouchRadius"/>
+        <attr format="boolean" name="cropSaveBitmapToInstanceState"/>
+        <attr format="boolean" name="cropShowCropOverlay"/>
+        <attr format="boolean" name="cropShowProgressBar"/>
+        <attr format="dimension" name="cropMinCropWindowWidth"/>
+        <attr format="dimension" name="cropMinCropWindowHeight"/>
+        <attr format="float" name="cropMinCropResultWidthPX"/>
+        <attr format="float" name="cropMinCropResultHeightPX"/>
+        <attr format="float" name="cropMaxCropResultWidthPX"/>
+        <attr format="float" name="cropMaxCropResultHeightPX"/>
+        <attr format="boolean" name="cropFlipHorizontally"/>
+        <attr format="boolean" name="cropFlipVertically"/>
+    </declare-styleable>
+    <declare-styleable name="ShadowView">
+        <attr format="enum" name="svBackgroundType">
+            <enum name="fill" value="0"/>
+            <enum name="stroke" value="1"/>
+            <enum name="fill_stroke" value="2"/>
+        </attr>
+        <attr format="enum" name="svBackgroundColorType">
+            <enum name="solid" value="0"/>
+            <enum name="gradient_linear" value="1"/>
+            <enum name="gradient_radial" value="2"/>
+            <enum name="gradient_sweep" value="3"/>
+        </attr>
+        <attr format="color" name="svBackgroundColor"/>
+        <attr format="color" name="svBackgroundGradientColor0"/>
+        <attr format="color" name="svBackgroundGradientColor1"/>
+        <attr format="color" name="svBackgroundGradientColor2"/>
+        <attr format="color" name="svBackgroundGradientColor3"/>
+        <attr format="color" name="svBackgroundGradientColor4"/>
+        <attr format="color" name="svBackgroundGradientColor5"/>
+        <attr format="color" name="svBackgroundGradientColor6"/>
+        <attr format="color" name="svBackgroundGradientColorEnd"/>
+        <attr format="float" name="svBackgroundGradientAngle"/>
+        <attr format="float" name="svBackgroundGradientOffCenterX"/>
+        <attr format="float" name="svBackgroundGradientOffCenterY"/>
+        <attr format="float" name="svBackgroundAlpha"/>
+        <attr format="enum" name="svStrokeType">
+            <enum name="solid" value="0"/>
+            <enum name="dash" value="1"/>
+        </attr>
+        <attr format="enum" name="svStrokeColorType">
+            <enum name="solid" value="0"/>
+            <enum name="gradient_linear" value="1"/>
+            <enum name="gradient_sweep" value="3"/>
+        </attr>
+        <attr format="color" name="svStrokeColor"/>
+        <attr format="color" name="svStrokeGradientColor0"/>
+        <attr format="color" name="svStrokeGradientColor1"/>
+        <attr format="color" name="svStrokeGradientColor2"/>
+        <attr format="color" name="svStrokeGradientColor3"/>
+        <attr format="color" name="svStrokeGradientColor4"/>
+        <attr format="color" name="svStrokeGradientColor5"/>
+        <attr format="color" name="svStrokeGradientColor6"/>
+        <attr format="color" name="svStrokeGradientColorEnd"/>
+        <attr format="float" name="svStrokeGradientAngle"/>
+        <attr format="float" name="svStrokeGradientOffCenterX"/>
+        <attr format="float" name="svStrokeGradientOffCenterY"/>
+        <attr format="float" name="svStrokeAlpha"/>
+        <attr format="dimension" name="svStrokeWidth"/>
+        <attr format="dimension" name="svStrokeDashSize"/>
+        <attr format="dimension" name="svStrokeGapSize"/>
+        <attr format="enum" name="svStrokeCapType">
+            <enum name="square" value="0"/>
+            <enum name="butt" value="1"/>
+            <enum name="round" value="2"/>
+        </attr>
+        <attr format="color" name="svShadowColor"/>
+        <attr format="float" name="svShadowAlpha"/>
+        <attr format="dimension" name="svShadowDistance"/>
+        <attr format="dimension" name="svShadowBlur"/>
+        <attr format="float" name="svShadowAngle"/>
+        <attr format="dimension" name="svShadowArea"/>
+        <attr format="dimension" name="svShadowLeft"/>
+        <attr format="dimension" name="svShadowTop"/>
+        <attr format="dimension" name="svShadowRight"/>
+        <attr format="dimension" name="svShadowBottom"/>
+        <attr format="dimension" name="svShadowDy"/>
+        <attr format="enum" name="svCornerType">
+            <enum name="custom" value="0"/>
+            <enum name="rectangular" value="1"/>
+            <enum name="circular" value="2"/>
+            <enum name="third" value="3"/>
+            <enum name="quarter" value="4"/>
+        </attr>
+        <attr format="dimension" name="svCornerTopLeft"/>
+        <attr format="dimension" name="svCornerTopRight"/>
+        <attr format="dimension" name="svCornerBottomLeft"/>
+        <attr format="dimension" name="svCornerBottomRight"/>
+        <attr format="dimension" name="svCornerRadius"/>
+    </declare-styleable>
+    <declare-styleable name="SmoothBottomBar">
+        <attr format="reference" name="menu"/>
+        <attr format="color" name="backgroundColor"/>
+        <attr format="color" name="indicatorColor"/>
+        <attr format="dimension" name="indicatorRadius"/>
+        <attr format="dimension" name="sideMargins"/>
+        <attr format="dimension" name="itemPadding"/>
+        <attr format="color" name="textColor"/>
+        <attr format="reference" name="itemFontFamily"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="dimension" name="iconSize"/>
+        <attr format="dimension" name="iconMargin"/>
+        <attr format="color" name="iconTint"/>
+        <attr format="color" name="iconTintActive"/>
+        <attr format="dimension" name="cornerRadius"/>
+        <attr format="integer" name="timeDuration"/>
+        <attr format="integer" name="activeItem"/>
+        <attr format="boolean" name="displayAllText"/>
+    </declare-styleable>
+    <declare-styleable name="VDSCardView">
+        <!-- Corner radius for CardView. -->
+        <attr format="dimension" name="cvCornerRadius"/>
+        <!-- Corner top left radius for CardView. -->
+        <attr format="dimension" name="cvTopLeftRadius"/>
+        <!-- Corner top right radius for CardView. -->
+        <attr format="dimension" name="cvTopRightRadius"/>
+        <!-- Corner bottom right radius for CardView. -->
+        <attr format="dimension" name="cvBottomRightRadius"/>
+        <!-- Corner bottom left radius for CardView. -->
+        <attr format="dimension" name="cvBottomLeftRadius"/>
+        <!--  Margin surround CardView cause of shadow layer.  -->
+        <attr format="dimension" name="cvShadowMargin"/>
+        <!--  Margin left CardView cause of shadow layer  -->
+        <attr format="dimension" name="cvShadowMarginLeft"/>
+        <!--  Margin top CardView cause of shadow layer  -->
+        <attr format="dimension" name="cvShadowMarginTop"/>
+        <!--  Margin right CardView cause of shadow layer  -->
+        <attr format="dimension" name="cvShadowMarginRight"/>
+        <!--  Margin bottom CardView cause of shadow layer  -->
+        <attr format="dimension" name="cvShadowMarginBottom"/>
+        <!--  CardView type based on usages.  -->
+        <attr format="enum" name="cvShadowType">
+            <enum name="none" value="0"/>
+            <enum name="card" value="1"/>
+            <enum name="bottom_tab" value="2"/>
+            <enum name="button_large" value="3"/>
+            <enum name="button_medium" value="4"/>
+            <enum name="button_small" value="5"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="ZoomEngine">
+        <attr format="boolean" name="hasClickableChildren"/>
+        <attr format="boolean" name="overScrollHorizontal"/>
+        <attr format="boolean" name="overScrollVertical"/>
+        <attr format="boolean" name="overPinchable"/>
+        <attr format="boolean" name="zoomEnabled"/>
+        <attr format="boolean" name="flingEnabled"/>
+        <attr format="boolean" name="scrollEnabled"/>
+        <attr format="boolean" name="oneFingerScrollEnabled"/>
+        <attr format="boolean" name="twoFingersScrollEnabled"/>
+        <attr format="boolean" name="threeFingersScrollEnabled"/>
+        <attr format="boolean" name="allowFlingInOverscroll"/>
+        <attr format="boolean" name="verticalPanEnabled"/>
+        <attr format="boolean" name="horizontalPanEnabled"/>
+        <attr format="float" name="minZoom"/>
+        <attr format="float" name="maxZoom"/>
+        <attr format="enum" name="minZoomType">
+            <enum name="zoom" value="0"/>
+            <enum name="realZoom" value="1"/>
+        </attr>
+        <attr format="enum" name="maxZoomType">
+            <enum name="zoom" value="0"/>
+            <enum name="realZoom" value="1"/>
+        </attr>
+        <attr format="enum" name="transformation">
+            <enum name="centerInside" value="0"/>
+            <enum name="centerCrop" value="1"/>
+            <enum name="none" value="2"/>
+        </attr>
+        <attr name="transformationGravity">
+            <flag name="auto" value="0"/>
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="center" value="0x11"/>
+        </attr>
+        <attr name="alignment">
+            <flag name="top" value="0x01"/>
+            <flag name="bottom" value="0x02"/>
+            <flag name="center_vertical" value="0x03"/>
+            <flag name="none_vertical" value="0x04"/>
+            <flag name="left" value="0x10"/>
+            <flag name="right" value="0x20"/>
+            <flag name="center_horizontal" value="0x30"/>
+            <flag name="none_horizontal" value="0x40"/>
+            <flag name="center" value="0x33"/>
+            <flag name="none" value="0x44"/>
+        </attr>
+        <attr format="integer" name="animationDuration"/>
+    </declare-styleable>
+</resources>

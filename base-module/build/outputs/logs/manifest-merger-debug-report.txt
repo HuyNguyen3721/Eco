@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:8:5-21:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:8:18-61
+activity#com.lam2000.base_module.photopicker.PickImageActivity
+ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:9:9-67
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:9:19-64
+activity#com.lam2000.base_module.crop.CropActivity2
+ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:10:9-56
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:10:19-53
+provider#com.lam2000.base_module.utils.GenericFileProvider
+ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:13:13-54
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:17:13-19:52
+	android:resource
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:19:17-49
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml:18:17-67
+uses-sdk
+INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Eco_Test\base-module\src\main\AndroidManifest.xml
